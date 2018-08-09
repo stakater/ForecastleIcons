@@ -7,3 +7,4 @@ Collection of icons which can be referenced in Forecastle
 - Prometheus: https://github.com/stakater/ForecastleIcons/raw/master/prometheus.png
 - Kafka-Manager: https://github.com/stakater/ForecastleIcons/raw/master/kafka-manager.png
 - Cerebro: https://github.com/stakater/ForecastleIcons/raw/master/cerebro.png
+- Hazelcast: https://github.com/stakater/ForecastleIcons/raw/master/hazelcast.png
