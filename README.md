@@ -8,3 +8,5 @@ Collection of icons which can be referenced in Forecastle
 - Kafka-Manager: https://github.com/stakater/ForecastleIcons/raw/master/kafka-manager.png
 - Cerebro: https://github.com/stakater/ForecastleIcons/raw/master/cerebro.png
 - Hazelcast: https://github.com/stakater/ForecastleIcons/raw/master/hazelcast.png
+- Jenkins: https://github.com/stakater/ForecastleIcons/raw/master/jenkins.png
+- Kubernetes: Hazelcast: https://github.com/stakater/ForecastleIcons/raw/master/kubernetes.png
