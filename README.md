@@ -11,3 +11,4 @@ Collection of icons which can be referenced in Forecastle
 - Jenkins: https://github.com/stakater/ForecastleIcons/raw/master/jenkins.png
 - Kubernetes: Hazelcast: https://github.com/stakater/ForecastleIcons/raw/master/kubernetes.png
 - Nexus: https://github.com/stakater/ForecastleIcons/raw/master/nexus.png
+- Openshift: https://github.com/stakater/ForecastleIcons/raw/master/redhatopeshift.png
